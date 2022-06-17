@@ -1,0 +1,10 @@
+node_modules
+*.jpg
+*.png
+*.jpeg
+*.svg
+*.webpp
+requisicoesLog.txt
+teste.js
+tasks-session.todo
+tasks.todo
